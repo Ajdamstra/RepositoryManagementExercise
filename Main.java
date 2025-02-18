@@ -5,6 +5,8 @@ public class Main {
 		System.out.print("This is a RepositoryManagementExercise test");
 
 		System.out.print("This string of text should show after one update push");
+
+		System.out.print("This string is a raw edit inside GitHub");
 	}
 
 }
